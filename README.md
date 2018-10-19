@@ -3,3 +3,4 @@ first one
 fire;
 black;
 fight;
+new;
